@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.logo1 {
+  color: red;
+  background-color: blue;
+}
+
+.logo2 {
+  height: 40vmin;
+  color: red;
+  background-color: rosybrown;
+}
